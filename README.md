@@ -78,7 +78,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-##DONATE
+##DONATE:
 IF YOU have found this project useful,please consider making a donation to contribute for more awesome projects.
 commits
 14 commits
