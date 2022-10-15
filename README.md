@@ -6,9 +6,11 @@
 weather_app is what the title say it is. it's a quick,simple weather app.The features include the basics,including forecasts,current temperature,hourly forecasts and more.other than that,it's really not complicated.
 -The weather app supports global locations and has customizable live tile support.it's a nice option for the times you just need to check in on weather to plan for your weak ahead.
  ## SCREENSHOTS
- - link 1
- - link 2
- ********
+ ![Screenshot from 2022-10-15 13-12-56](https://user-images.githubusercontent.com/111878352/195980959-782cae0b-9a30-4f56-bb64-367b10861640.png)
+
+ 
+ ********![Screenshot from 2022-10-15 13-13-08](https://user-images.githubusercontent.com/111878352/195980967-5f0dd888-f221-44fa-8167-1443f07e5b3e.png)
+
  ## SetUp Instruction
  ### Requirements
  * [Lang](lang Url)
@@ -81,4 +83,4 @@ SOFTWARE.
 DONATE
 IF YOU have found this project useful,please consider making a donation to contribute for more awesome projects.
 commits
-10 commits
+14 commits
