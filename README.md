@@ -39,12 +39,7 @@ weather_app is what the title say it is. it's a quick,simple weather app.The fea
  https://olemenye.github.io/project/
  Or you can access the web application directly via this [LINK.](link.com/)
  *****
- ## Dependencies
- - Package Name
- - Package Name
- - Package Name
- - Package Name
- *****
+
  ## Technologies Used
  1. HTML
  2. MdBootstrap
