@@ -61,7 +61,7 @@ https://code.visualstudio.com/download
 
 11:55
 MIT License
-MIT License
+This project is licensed underthe Apache licence.see the licence.md file for details
 Copyright (c) [YEAR] COPYRIGHT HOLDER
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
