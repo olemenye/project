@@ -48,7 +48,7 @@ weather_app is what the title say it is. it's a quick,simple weather app.The fea
  5. JavaScript
  *****
  ## Contact Information
- * Email : example@gmail.com
+ 
  menyelaiyo93@gmail.com
  ## [License](LICENSE)
  MIT License
