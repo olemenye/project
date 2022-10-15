@@ -33,7 +33,7 @@ weather_app is what the title say it is. it's a quick,simple weather app.The fea
  > $ python3 manage.py runserver
  Then run server with the above command
  *****
- ## Live Link
+ https://olemenye.github.io/project/
  Or you can access the web application directly via this [LINK.](link.com/)
  *****
  ## Dependencies
