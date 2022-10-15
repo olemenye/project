@@ -5,6 +5,7 @@
  ## Project Description
 weather_app is what the title say it is. it's a quick,simple weather app.The features include the basics,including forecasts,current temperature,hourly forecasts and more.other than that,it's really not complicated.
 -The weather app supports global locations and has customizable live tile support.it's a nice option for the times you just need to check in on weather to plan for your weak ahead.
+-weather is sometimes difficult to predict.This accurate weather app allows to find out detailed forecast wherever you are.
  ## SCREENSHOTS
  ![Screenshot from 2022-10-15 13-12-56](https://user-images.githubusercontent.com/111878352/195980959-782cae0b-9a30-4f56-bb64-367b10861640.png)
 
