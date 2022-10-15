@@ -8,7 +8,8 @@ weather_app is what the title say it is. it's a quick,simple weather app.The fea
  ## SCREENSHOTS
  ![Screenshot from 2022-10-15 13-12-56](https://user-images.githubusercontent.com/111878352/195980959-782cae0b-9a30-4f56-bb64-367b10861640.png)
 
- 
+ ![Screenshot from 2022-10-15 13-30-07](https://user-images.githubusercontent.com/111878352/195981998-7a4bf2a1-3b1a-44be-a09a-55c058fd99df.png)
+
  ********!
 
  ## SetUp Instruction
