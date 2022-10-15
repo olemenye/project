@@ -13,7 +13,9 @@ weather_app is what the title say it is. it's a quick,simple weather app.The fea
  ********!
 
  ## SetUp Instruction
- ### Requirements
+ ### Requirements![Screenshot from 2022-10-15 13-57-56](https://user-images.githubusercontent.com/111878352/195983309-6e4c6441-5953-497a-87f5-1681da9b80e4.png)
+![Screenshot from 2022-10-15 13-58-35](https://user-images.githubusercontent.com/111878352/195983317-8a40d4cc-64fb-45af-a637-7afbe1e03237.png)
+
  * [Lang](lang Url)
  * [Framework](Framework URL)
  * Text editor eg [Visual Studio Code](https://code.visualstudio.com/download)
